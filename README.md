@@ -23,3 +23,5 @@ To run this project locally, follow the steps below:
 3. Run the Dashboard: Start the Dash app by running: python dashboard.py
 
 Open your browser and go to http://127.0.0.1:8050/ to view the dashboard.
+
+Link to dataset https://www.kaggle.com/datasets/mosesmoncy/mall-customerscsv
